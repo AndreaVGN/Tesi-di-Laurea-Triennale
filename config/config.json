@@ -1,0 +1,5 @@
+{
+    "dataset_name": "preprocessed_data1.csv",
+    "target_feature": "ANOMALOUS"
+}
+
