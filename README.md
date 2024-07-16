@@ -1,6 +1,6 @@
 Abstract
 
-L’Industria 4.0 rappresenta una rivoluzione nell’ambito industriale, caratterizzata dall’uso di tecnologie digitali avanzate nei processi produttivi. L’obiettivo dell’Industria 4.0 è creare fabbriche intelligenti e connesse, in grado di operare in modo autonomo, comunicando tra di loro e adattandosi dinamicamente alle esigenze del mercato, aumentando cos`ı l’efficienza e la competitivit`a dell’industria.
+L’Industria 4.0 rappresenta una rivoluzione nell’ambito industriale, caratterizzata dall’uso di tecnologie digitali avanzate nei processi produttivi. L’obiettivo dell’Industria 4.0 è creare fabbriche intelligenti e connesse, in grado di operare in modo autonomo, comunicando tra di loro e adattandosi dinamicamente alle esigenze del mercato, aumentando così l’efficienza e la competitività dell’industria.
 
 L’Intelligenza Artificiale (AI) e l’Intelligenza Artificiale spiegabile (XAI), svolgono un ruolo cruciale in questo contesto: la prima permette di ottimizzare i processi produttivi e decisionali attraverso l’impiego di algoritmi avanzati, mentre la seconda consente agli operatori del settore di comprendere il funzionamento che si cela dietro a questi sistemi intelligenti, facilitando l’adozione e l’integrazione dell’IA nell’Industria 4.0 e promuovendo una collaborazione più efficace tra umani e macchine.
 
