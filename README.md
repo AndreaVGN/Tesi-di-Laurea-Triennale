@@ -1,4 +1,4 @@
-Abstract
+**Abstract**
 
 L’Industria 4.0 rappresenta una rivoluzione nell’ambito industriale, caratterizzata dall’uso di tecnologie digitali avanzate nei processi produttivi. L’obiettivo dell’Industria 4.0 è creare fabbriche intelligenti e connesse, in grado di operare in modo autonomo, comunicando tra di loro e adattandosi dinamicamente alle esigenze del mercato, aumentando così l’efficienza e la competitività dell’industria.
 
