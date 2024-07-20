@@ -10,4 +10,4 @@ L’obiettivo è stato analizzare un insieme di dati elaborati provenienti dal s
 
 Grazie all’utilizzo di tecniche di XAI è stato possibile ottenere una maggiore comprensione dei dati e fornire anche alcune spiegazioni sui due modelli utilizzati, rapportando l’efficacia di ognuno di essi in funzione del problema del rilevamento delle anomalie e dei dati analizzati.
 
-**DATI SORGENTI NON PRESENTI ALL'INTERNO DELLA CARTELLE!**
+**DATI SORGENTI NON PRESENTI ALL'INTERNO DELLE CARTELLE!**
